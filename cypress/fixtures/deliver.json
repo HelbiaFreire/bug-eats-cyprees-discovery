@@ -1,0 +1,50 @@
+{
+  "signup":{
+    "name": "Erika Freire",
+    "cpf": "97317594256",
+    "email": "papito@hotmail.com",
+    "whatsapp": "1199999999",
+    "address": {
+      "postalcode": "69043003",
+      "street": "Rua Pitimbu",
+      "number": "8",
+      "datails": "Ap 5",
+      "district": "Alvorada",
+      "city_state": "Manaus/AM"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv":{
+    "name": "Erika Freire",
+    "cpf": "973175942AA",
+    "email": "papito@hotmail.com",
+    "whatsapp": "1199999999",
+    "address": {
+      "postalcode": "69043003",
+      "street": "Rua Pitimbu",
+      "number": "8",
+      "datails": "Ap 5",
+      "district": "Alvorada",
+      "city_state": "Manaus/AM"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_inv":{
+    "name": "Erika Freire",
+    "cpf": "97317594256",
+    "email": "erika.com.br",
+    "whatsapp": "1199999999",
+    "address": {
+      "postalcode": "69043003",
+      "street": "Rua Pitimbu",
+      "number": "8",
+      "datails": "Ap 5",
+      "district": "Alvorada",
+      "city_state": "Manaus/AM"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
